@@ -1,0 +1,62 @@
+{
+    "name":"HDR__Table_15_Schema",
+    "title":"Table 15 csv Schema",
+    "description":"Schema for exercice number one",
+    "fields":[
+        {
+            "name":"HDI rank",
+            "title":"Column HDI rank",
+            "type":"integer"
+        },
+        
+        {"name":"Country",
+            "title":"column Investiged country name",
+            "type":"string"
+           
+            },
+
+        { "name":"LEVEL HDI",
+            "title":"Column Human dev level",
+            "type":"string"
+            
+
+        },
+        {
+            "name":"Survey Year_MDG",
+            "title":"Column Human Development Survey Year_MDG",
+            "type":"year"
+        },
+        {
+            "name":"1980",
+            "title":"Column Human Development Index rank 1980",
+            "type":"number"
+
+        },
+        {
+            "name":"1985",
+            "title":"Column Human Development Index rank 1985",
+            "type":"number"
+        },
+        {
+            "name":"1990",
+            "title":"Column Human Development Index rank 1990",
+            "type":"number"
+        },
+        {
+            "name":"1995",
+            "title":"Column Human Development Index rank 1995",
+            "type":"number"
+        },
+        {
+            "name":"2000",
+            "title":"Column Human Development Index rank 2000 ",
+            "type":"number"
+        },
+        {
+            "name":"2005",
+            "title":"Column Human Development Index rank 2005",
+            "type":"number"
+        }
+    ],
+    "missingsValues":[" "]
+}
